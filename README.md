@@ -6,4 +6,7 @@ https://docs.google.com/presentation/d/15IYBIbePCqzK41XJeKzKFNe2Jf1nJ2mn6Hwy_IPB
 ## API Doku
 https://www.themealdb.com/api.php
 
+## Miro Board
+https://miro.com/app/board/uXjVPzD4N_Y=/
+
 
