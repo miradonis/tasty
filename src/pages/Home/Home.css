@@ -1,0 +1,8 @@
+.mealContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.mealP {
+    align-self: center;
+}
